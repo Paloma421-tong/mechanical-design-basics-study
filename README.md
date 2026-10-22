@@ -1,3 +1,4 @@
+Warning: fs was declared with const; use let for reassignable variables.
 # 机械设计基础学习站
 
 面向个人复习使用的机械设计基础学习网站。题库按题型拆分成三个子站，支持搜索、答案解析、错题次数记录和教材页码对照。网站为静态网页，电脑和手机都可以通过浏览器打开，无需安装软件。
@@ -5,6 +6,7 @@
 ## 在线访问
 
 - [学习站首页](https://paloma421-tong.github.io/mechanical-design-basics-study/)
+- [网站使用指南](https://paloma421-tong.github.io/mechanical-design-basics-study/使用指南/)
 - [习题集](https://paloma421-tong.github.io/mechanical-design-basics-study/习题集/)
 - [简答题](https://paloma421-tong.github.io/mechanical-design-basics-study/简答题/)
 - [选择题](https://paloma421-tong.github.io/mechanical-design-basics-study/选择题/)
